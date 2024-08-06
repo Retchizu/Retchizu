@@ -25,8 +25,9 @@ an aspiring Full Stack Developer with a passion for building innovative and scal
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> &nbsp <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  &nbsp <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=retchizu&show_icons=true&locale=en&layout=compact" alt="retchizu" /></p>
+  &nbsp <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> &nbsp <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=retchizu&show_icons=true&locale=en&layout=compact" alt="retchizu" /> 
+  
 </p>
 
 <h3 align="left">Tech Stack:</h3>
