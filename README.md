@@ -29,7 +29,7 @@ an aspiring Full Stack Developer with a passion for building innovative and scal
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=retchizu&show_icons=true&locale=en&layout=compact" alt="retchizu" /></p>
 </p>
 
-<h3 align="left">Tech Stack</h3>
+<h3 align="left">Tech Stack:</h3>
 <P>
   <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/> &nbsp <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   &nbsp <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> &nbsp <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
