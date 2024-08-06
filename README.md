@@ -1,6 +1,15 @@
-# Hi there, I'm Richmond Baltazar! 👋
+# Hi there 👋 ! I'm Richmond Baltazar
 
-I am a tech enthusiast with a passion for coding and a strong background in database management. I enjoy solving complex problems and crafting elegant solutions. My tech journey started with the BS Computer Science program.
+an aspiring Full Stack Developer with a passion for building innovative and scalable software solutions. 
+
+## 🚀 About Me
+
+- 🌟 **Aspiring Full Stack Developer**: I specialize in creating seamless experiences across both mobile and web platforms.
+- 📱 **Mobile Development Enthusiast**: I develop engaging mobile applications for both Android and iOS.
+- ⚙️ **Backend Server Creator**: I build robust backend servers to power applications and services.
+- 🌐 **Front-End Enthusiast**: I bring designs to life with interactive and user-friendly front-end experiences.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=retchizu&label=Profile%20views&color=0e75b6&style=flat" alt="retchizu" /> </p>
 
 ## Education
 - **BS Computer Science**
@@ -13,13 +22,23 @@ I am a tech enthusiast with a passion for coding and a strong background in data
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=DE5065274D0F414BDF837CE3B4471F02200A8B3B1299C2BA83EF8433AB4DD6D2)
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/2ecaedcfbf3e40cca12cb5e48e55308a)
 
-## Skill Sets
-- **Programming Languages:** Java, Javascript
-- **Databases:** IBM DB2 Cloud, SQL, SQLite, Firebase, MongoDB
-- **Tools:** React, React Native, Redux, Lucidchart, Jaspersoft Studio, HTML, CSS, Android Studio, Expo
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> &nbsp <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  &nbsp <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=retchizu&show_icons=true&locale=en&layout=compact" alt="retchizu" /></p>
+</p>
+
+<h3 align="left">Tech Stack</h3>
+<P>
+  <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/> &nbsp <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  &nbsp <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> &nbsp <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  &nbsp <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</P>
 
 
-## Reach Me
-- **Email:** baltazarrichmond31@gmail.com
-
-Let's connect and collaborate on exciting projects! 😊
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/rchmndbltzr" target="blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> &nbsp
+<a href="https://www.linkedin.com/in/richmond-baltazar-89b00b120/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+</p>
