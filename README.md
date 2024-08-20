@@ -1,14 +1,6 @@
 # Hi there 👋 ! I'm Richmond Baltazar
 
 an aspiring Full Stack Developer with a passion for building innovative and scalable software solutions. 
-
-## 🚀 About Me
-
-- 🌟 **Aspiring Full Stack Developer**: I specialize in creating seamless experiences across both mobile and web platforms.
-- 📱 **Mobile Development Enthusiast**: I develop engaging mobile applications for both Android and iOS.
-- ⚙️ **Backend Server Creator**: I build robust backend servers to power applications and services.
-- 🌐 **Front-End Enthusiast**: I bring designs to life with interactive and user-friendly front-end experiences.
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=retchizu&label=Profile%20views&color=0e75b6&style=flat" alt="retchizu" /> </p>
 
 ## Education
