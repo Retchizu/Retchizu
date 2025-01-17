@@ -1,7 +1,4 @@
-# Hi there 👋 ! I'm Richmond Baltazar
 
-an aspiring Full Stack Developer with a passion for building innovative and scalable software solutions. 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=retchizu&label=Profile%20views&color=0e75b6&style=flat" alt="retchizu" /> </p>
 
 ## Education
 - **BS Computer Science**
