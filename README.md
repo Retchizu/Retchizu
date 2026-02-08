@@ -13,22 +13,6 @@
 - [The Complete React Native + Hooks Course](https://www.udemy.com/certificate/UC-0c988628-dd45-4ebf-99cc-15660bfb60e2/)
 - [Full Android Development Masterclass](https://www.udemy.com/certificate/UC-3f9dace2-fbcb-42df-ae10-261f84bb8678/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> &nbsp <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  &nbsp <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/> &nbsp <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> &nbsp <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/> &nbsp <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white"/> </p>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=retchizu&show_icons=true&locale=en&layout=compact" alt="retchizu" /> 
-  
-</p>
-
-<h3 align="left">Tech Stack:</h3>
-<P>
-  <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/> &nbsp <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  &nbsp <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> &nbsp <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  &nbsp <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</P>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/rchmndbltzr" target="blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> &nbsp
