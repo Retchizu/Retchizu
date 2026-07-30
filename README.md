@@ -3,7 +3,7 @@
 ## Education
 - **BS Computer Science**
   - *New Era University*
-  - *2022-Present*
+  - *2022-2026
 
 ## Certifications
 - [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=B64AD4122B5DCC6442D85E1653592E45778023B73CDA5E3B1DC682F4E1443B73)
